@@ -1,0 +1,31 @@
+{
+  "name": "reactjs",
+  "version": "0.1.0",
+  "description": "bill split calculator app.",
+  "bugs": {
+    "url": "https://github.com/rakshayac/reactjs.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rakshayac/reactjs.git"
+  },
+  "author": "Jami Gibbs <jami0821@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.6",
+    "react-dom": "^15.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
+© 2020 GitHub, Inc.
